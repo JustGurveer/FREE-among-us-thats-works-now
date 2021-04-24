@@ -1,0 +1,1 @@
+if it dosent work copy all the files that are below unityplayer.dll and copy them and then delete them and then make a new folder in the folder you have the all the files in and name the folder "Among_us_data" and paste all the files in the folder!
